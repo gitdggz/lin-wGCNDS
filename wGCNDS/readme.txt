@@ -1,0 +1,1 @@
+The code for the paper "A Weighted Graph Network-Based Method for Combining Conflicting Evidence" will be made available later, so please stay tuned and thank you.
